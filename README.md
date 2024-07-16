@@ -1,3 +1,4 @@
+![No Secret Scan Banner](https://github.com/Masriyan/No-Secret-Scan-Github-Gitlab/blob/main/banner.png?raw=true)                                                                                                                          
 # No Secret Scan for GitHub & GitLab by sudo3rs
 ## Overview
 No Secret Scan is a Python script designed to scan GitHub and GitLab repositories for potential secrets such as API keys, tokens, passwords, and more. The script uses regular expressions to identify these secrets within the repository files and provides a comprehensive report of any findings.
@@ -10,27 +11,27 @@ No Secret Scan is a Python script designed to scan GitHub and GitLab repositorie
 
 ## Usage
 1. Clone the repository:
-- git clone https://github.com/yourusername/no-secret-scan.git
-- cd no-secret-scan
+-- git clone https://github.com/yourusername/no-secret-scan.git
+-- cd no-secret-scan
 
 2. Install the required libraries:
-- pip install requests tqdm
+-- pip install requests tqdm
 
 3. Run the script:
-- python no_secret_scan.py
+-- python no_secret_scan.py
 
 4. Follow the prompts:
-- Select the repository type (GitHub or GitLab).
-- Enter the URL of the repository you want to scan.
-- Provide your access token.
+-- Select the repository type (GitHub or GitLab).
+-- Enter the URL of the repository you want to scan.
+-- Provide your access token.
 
 ## Example
-![No Secret Scan Banner]()
+![No Secret Scan Banner](https://github.com/Masriyan/No-Secret-Scan-Github-Gitlab/blob/main/Screenshot%202024-07-16%20093855.png?raw=true)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## ontributing
+## Contributing
 1. Fork the repository.
 2. Create your feature branch (git checkout -b feature/awesome-feature).
 3. Commit your changes (git commit -m 'Add some awesome feature').
@@ -38,4 +39,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 5. Open a pull request.
 
 ## Acknowledgments
-- Inspired by various secret scanning tools and methodologies.
+-- Inspired by various secret scanning tools and methodologies.
