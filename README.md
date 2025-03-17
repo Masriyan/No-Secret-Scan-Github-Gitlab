@@ -11,7 +11,7 @@ No Secret Scan is a Python script designed to scan GitHub and GitLab repositorie
 
 ## Usage
 1. Clone the repository:
--- git clone [https://github.com/yourusername/no-secret-scan.git](https://github.com/Masriyan/No-Secret-Scan-Github-Gitlab.git)
+-- git clone [https://github.com/Masriyan/no-secret-scan.git](https://github.com/Masriyan/No-Secret-Scan-Github-Gitlab.git)
 -- cd no-secret-scan
 
 2. Install the required libraries:
